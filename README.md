@@ -1,2 +1,11 @@
 # WinActor2kintone001
 CSVファイルを読み取って、kintone APIを叩いて、kintoneにデータ登録するWinActorシナリオ
+
+## OSC2024 Hokkaido RPACommunityセミナー
+で紹介した、（AI JIMYで生成した）CSVファイルをWinActorが読み取って、kintone APIを叩いてデータ登録するシナリオです。
+プレゼン資料はこちらになります。
+
+https://docs.google.com/presentation/d/14A_vIIQ9vXotSrnI-KqTYC1ma8lQ9rScxB9mFO4tVVs/edit?usp=sharing
+
+## 注意点
+・WinActorのバージョンは、7.4で作成しております。
