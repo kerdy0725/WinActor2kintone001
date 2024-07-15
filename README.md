@@ -1,0 +1,2 @@
+# WinActor2kintone001
+CSVファイルを読み取って、kintone APIを叩いて、kintoneにデータ登録するWinActorシナリオ
