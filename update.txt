@@ -1,0 +1,9 @@
+{
+  "app": 5,
+  "record": {"attn":     {"value": "%fld001"},
+             "duedate":  {"value": "%fld002"},
+             "shopname": {"value": "%fld003"},
+             "amount":   {"value": "%fld004"},
+             "note":     {"value": "%fld005"}
+  }
+}
